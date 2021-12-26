@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aa008a72-7e77-4399-a46f-72e385f984c6": {
+      "ProjectGuid": "aa008a72-7e77-4399-a46f-72e385f984c6",
+      "DisplayName": "扫雷",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
